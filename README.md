@@ -1,3 +1,14 @@
+<h1 align="center">
+  Smart Travel
+</h1>
+<p align="center">
+
+<img width="1440" alt="Screenshot 2024-06-23 at 14 11 45" src="https://github.com/Anish-xii/SmartTravel---website-for-a-travel-application/assets/164672680/7a2e773d-8248-488a-853c-2522ee7d49c7">
+
+
+</p>
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
